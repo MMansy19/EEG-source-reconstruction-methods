@@ -104,6 +104,16 @@ task2/
     
 - [Regression shrinkage and selection via the lasso](https://doi.org/10.1111/j.2517-6161.1996.tb02080.x)
 
+## Team Members
+
+| Student Name | Student ID |
+|--------------|------------|
+| Mahmoud Mohamed Abdelfattah Elsayed | 4220142 |
+| Youssef Gamal | 2200005 |
+| Zeyad Khaled Badri | 1210100 |
+| Mohammed Tamer | 1200434 |
+| Youssef Mamdouh | 1200320 |
+
 ---
 
 **Project**: Neuroengineering Task 2  
